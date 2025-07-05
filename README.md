@@ -2,9 +2,6 @@
 
 A modern, minimalist **Streamlit web app** that turns your topic or pain point into **billion-dollar AI startup ideas** — in seconds.
 
-> 🎯 Built by [Surabhi Singh](https://github.com/Surabhi-Gith)
-
-![Demo Screenshot](https://via.placeholder.com/900x450.png?text=AI+Startup+Idea+Generator+Demo)
 
 ---
 
